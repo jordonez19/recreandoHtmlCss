@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin: 0;
+}
+
+html{
+    font-size: 62.5%;
+    /*
+    Los rem se van a adapatar a 10px por 1 rem 
+    ejp: 1rem = 10px 1.5rem = 15px
+*/
+}
+body{
+    font-size: 16px;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 3.8rem;
+}
+
+.titulo span{
+    font-size:2rem;
+}
+
